@@ -1,6 +1,6 @@
 
 #set working directory
-path <- "C:/Users/dt065498/OneDrive - CH2M/04_Code/01_RStudio/01_Machine_learning/02_CLASH/"
+path <- ""
 setwd(path)
 
 #load libraries and data

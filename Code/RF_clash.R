@@ -1,6 +1,6 @@
 
 #set working directory
-setwd("C:/Users/daniel.thompson/OneDrive - Swansea University/02_Sandbox/09_Waves/02_CLASH")
+setwd("")
 
 #load libraries and data
 library(data.table)
